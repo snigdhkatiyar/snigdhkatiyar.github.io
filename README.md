@@ -78,8 +78,7 @@
                 <li>
                 <span id="course-name">Languages Known:</span>English, Hindi, Sanskrit.</li>
                 <li>
-                <span id="course-name">Hobbies:</span>I love reading Autobiographies and Biographies/ playing badminton, cricket, swimming, listening music, surfing Internet, self-learning through e-courses.</li> </ul>
-            </p>
+                <span id="course-name">Hobbies:</span>I love reading Autobiographies and Biographies/ playing badminton, cricket, swimming, listening music, surfing Internet, self-learning through e-courses.</li>
             <h3>Other Information</h3>
             <p>
             <ul>
@@ -90,6 +89,4 @@
             <p>
             I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
      </div>
-     <div id="footer"></div>
-    </body>
-</html>
+     <div id="footer">
