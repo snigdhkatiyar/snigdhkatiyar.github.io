@@ -82,10 +82,9 @@
             <h3>Other Information</h3>
             <p>
             <ul>
-                <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups, Technical Support, Business Analysis
-                </ul>
+                <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups, Technical Support, Business Analysis </ul>
             </p>
             <h3>Declaration</h3>
             <p>
             I hereby declare that the details furnished above are true and correct to the best of my knowledge and belief.</p>
-     <div id="footer">
+            <div id="footer">
